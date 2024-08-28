@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aviraj Singh
 ====================================================================================================================================
 
-Frontend Developer | JavaScript | React | MERN
+Frontend Developer | JavaScript | React | Next JS
 ----------------------------------------------
 
 Experienced Frontend Developer with a proven track record in delivering exceptional web pages and web applications across multiple platforms. Proficient in developing robust user interfaces and implementing cutting-edge solutions to meet business objectives. Skilled in React.js, JavaScript, and modern front-end technologies along with the extensive experience in Python and Node.js for backend development.
