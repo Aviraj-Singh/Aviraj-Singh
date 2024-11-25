@@ -10,7 +10,7 @@ Experienced Frontend Developer with a proven track record in delivering exceptio
 * 🖥️  See my portfolio at [itsaviraj](http://itsmeaviraj.vercel.app/)
 * 🤝  I'm open to collaborating on developing scalable and maintainable solutions using React.js and backend technologies.
 
-<a href="http://www.github.com/Aviraj-Singh"><img src="https://github-readme-stats.vercel.app/api?username=Aviraj-Singh&show_icons=true&hide=issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aviraj-Singh's GitHub stats" /></a>
+<a href="http://www.github.com/Aviraj-Singh"><img src="https://github-readme-stats.vercel.app/api?username=Aviraj-Singh&show_icons=true&&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aviraj-Singh's GitHub stats" /></a>
 
 ### Skills
 
